@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hw"
+version = "0.1.0"
+description = "CLI assignment tracker for college courses"
+requires-python = ">=3.8"
+dependencies = [
+    "click>=8.0.0",
+    "tomli>=2.0.0; python_version < '3.11'",
+]
+
+[project.scripts]
+hw = "hw.cli:main"

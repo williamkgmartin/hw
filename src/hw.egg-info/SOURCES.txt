@@ -1,0 +1,14 @@
+pyproject.toml
+src/hw/__init__.py
+src/hw/cli.py
+src/hw/config.py
+src/hw/db.py
+src/hw/display.py
+src/hw/ingest.py
+src/hw/models.py
+src/hw.egg-info/PKG-INFO
+src/hw.egg-info/SOURCES.txt
+src/hw.egg-info/dependency_links.txt
+src/hw.egg-info/entry_points.txt
+src/hw.egg-info/requires.txt
+src/hw.egg-info/top_level.txt
