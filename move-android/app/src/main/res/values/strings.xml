@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Move</string>
+
+    <string name="home_title">Move</string>
+    <string name="home_add">Add Box</string>
+    <string name="home_edit">Edit Box</string>
+    <string name="home_view">View Boxes</string>
+
+    <string name="form_new_title">New box</string>
+    <string name="form_edit_title">Edit box</string>
+    <string name="form_label">Label</string>
+    <string name="form_room">Room (optional)</string>
+    <string name="form_items">Items</string>
+    <string name="form_add_item_hint">Add item, then press Enter</string>
+    <string name="form_save">Save</string>
+    <string name="form_error_label_required">Label is required</string>
+    <string name="form_error_label_taken">A box with this label already exists</string>
+
+    <string name="delete_title">Delete box?</string>
+    <string name="delete_message">Box \'%1$s\' and its items will be permanently removed.</string>
+    <string name="delete_confirm">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="edit_list_title">Choose a box to edit</string>
+    <string name="edit_list_empty">No boxes yet. Add one from the home screen.</string>
+
+    <string name="view_title">All boxes</string>
+    <string name="view_empty">No boxes yet. Add one from the home screen.</string>
+    <string name="view_no_room">no room</string>
+    <string name="view_no_items">(no items)</string>
+
+    <string name="content_back">Back</string>
+    <string name="content_delete_box">Delete box</string>
+    <string name="content_remove_item">Remove item</string>
+    <string name="content_expand">Expand</string>
+    <string name="content_collapse">Collapse</string>
+</resources>
